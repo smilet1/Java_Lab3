@@ -1,0 +1,29 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-15\bin\javadoc.exe" @options @argfile"
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\allclasses-index.html = 1604073490748
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\allpackages-index.html = 1604073490764
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\argfile = 1604073489217
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\Comparison.html = 1604073490520
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\constant-values.html = 1604073490600
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\deprecated-list.html = 1604073490676
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\element-list = 1604073490559
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\help-doc.html = 1604073490795
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\index-all.html = 1604073490732
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\index.html = 1604073490778
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\jquery-ui.overrides.css = 1604073491063
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\Main.html = 1604073490545
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\member-search-index.js = 1604073490721
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\module-search-index.js = 1604073490709
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\options = 1604073489215
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\overview-tree.html = 1604073490658
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\package-search-index.js = 1604073490717
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\package-summary.html = 1604073490565
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\package-tree.html = 1604073490586
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\package-use.html = 1604073490644
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\script.js = 1604073490816
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\search.js = 1604073490829
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\stylesheet.css = 1604073490809
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\tag-search-index.js = 1604073490728
+C:\Users\maxso\Documents\GitHub\Java_Lab3\Lab3\target\site\apidocs\type-search-index.js = 1604073490719
